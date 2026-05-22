@@ -1,0 +1,57 @@
+Solicitud de Cotización (RFP) – Desarrollo Web Corporativo
+Empresa solicitante: FJORD HAVN FEEDERS
+Ubicación: Ciudad de México, CDMX
+Fecha: 24/10/2025
+Contacto: Sofía Díaz
+1. Descripción general del proyecto
+FJORD HAVN FEEDERS es una empresa dedicada a ofrecer servicios de transporte marítimo
+y alimentadores portuarios. (SERVICIO FEEDER) Buscamos desarrollar un sitio web
+corporativo bilingüe (inglés-español), moderno y funcional, inspirado en la estructura y
+diseño de www.unifeeder.com. El objetivo del sitio es presentar la empresa, comunicar
+nuestros servicios, mostrar rutas e itinerarios actualizados, y permitir el acceso a clientes y
+socios mediante un portal seguro.
+2. Alcance del proyecto
+• Home / Inicio – Presentación, banner principal, resumen de servicios.
+• Services / Servicios – Detalle de los tipos de servicios de transporte y logística.
+• Routes / Rutas – Mapa interactivo de rutas y puertos de conexión.
+• About Us / Nosotros – Historia, valores, equipo y misión.
+• Schedule / Itinerary / Itinerario – Calendario o consulta de itinerarios de arribo a puertos.
+• Fleet / Nuestra Flota – Especificaciones técnicas, capacidades y tipos de embarcaciones.
+• Partners / Socios Estratégicos – Alianzas comerciales o portuarias.
+• Sustainability / Sostenibilidad – Compromiso ambiental y políticas ecológicas.
+• Contact / Contacto – Formulario de contacto general, mapa de ubicación y datos.
+• Downloads / Descargas – Documentos PDF, fichas técnicas y manuales.
+3. Funcionalidades requeridas
+• Bilingüe (EN / ES) con selector de idioma.
+• Track & Trace (Seguimiento de buque) con número de viaje como referencia.
+• Mapa interactivo de puertos y rutas.
+• Formulario contacto y observaciones.
+• Buscador interno de contenido o rutas.
+• Soporte técnico y mantenimiento post-lanzamiento.
+4. Requerimientos técnicos
+• Hosting seguro (HTTPS) y dominio con SSL.
+• Panel de administración (CMS) editable — preferencia: WordPress o plataforma similar.
+• Cumplimiento con RGPD / Política de privacidad.
+• Optimización para carga rápida y buena puntuación en Google PageSpeed.
+• Código limpio y documentación técnica.
+5. Entregables
+• Sitio web funcional completo.
+• Manual de usuario (para actualizaciones internas).
+• Acceso a hosting, dominio y panel de control.
+• Documentación técnica y credenciales finales.
+• Opcional: paquete de branding visual o video institucional.
+6. Presupuesto y tiempos estimados
+Por favor incluir en la propuesta:
+- Costo total del proyecto (en MXN).
+- Tiempo estimado de desarrollo (en semanas).
+- Forma de pago (anticipo, hitos, entrega final).
+- Costo opcional de mantenimiento mensual o anual.
+7. Contacto
+Por favor envíe su propuesta a:
+Accounting@fh-feeders.com
+5540674090
+Atención: Departamento de contabilidad/administración – FJORD HAVN FEEDERS
+
+
+
+Cuanto puedo cobrar por este proyecto
